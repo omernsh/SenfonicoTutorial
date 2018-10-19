@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Senfonico Tutorial</string>
+
+    <string name="action_search">Ara</string>
+    <string name="title_activity_search">Ara</string>
+    <string name="search_menu">Ara</string>
+    <string name="searchable_label">Search Query</string>
+    <string name="title_activity_view_photo_details">Fotoğraf</string>
+
+</resources>

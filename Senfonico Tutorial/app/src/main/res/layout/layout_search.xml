@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container"
+    android:background="@drawable/gradyanlistesi"
+    android:orientation="vertical"
+    tools:context="com.omernsh.android.senfonicotutorial.SearchActivity">
+
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="20dp"
+        >
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/edit_text_style"
+            android:textColorHint="#4A90E2"
+            android:textSize="20sp"
+            android:hint="Bir şeyler ara..." />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/input"
+        android:background="@drawable/button_style"
+        android:text="Bul!"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:textAllCaps="false"
+        android:id="@+id/btnSearch"
+        android:layout_margin="25dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:text="Ara"
+        android:textColor="#ffff"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
