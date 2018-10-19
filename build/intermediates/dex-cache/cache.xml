@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_97272da8e039a0bc5ab88b9bab2ff7d695142c86.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_f296023d81378e3edf9f476bf348576c060bf848.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d697e0a31a71d86174c4446fb8c1b3181d67c2e3.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_8c9152dc200e63f9516f4dfe4f3d55c34d058ac0.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_b835e972fdb5ce43147b1d561f84b12ee1734ea0.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_d1745ff02bc74381294b922a397322dc317d8209.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/com.makeramen-roundedimageview-2.3.0_ed8a595d6747c383fa8282600fc70ff1ad086673.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_19a1c966a85714152cbf665cda34791bf297d482.jar" />
+    </item>
+    <item
+        jar="/Users/omernasuhiaydemir/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/omernasuhiaydemir/Downloads/Flickr-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_c4d73b5a7c7c80ac862e92940205bdd3972219a6.jar" />
+    </item>
+
+</items>
